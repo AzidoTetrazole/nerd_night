@@ -119,6 +119,8 @@ plugins:
       theme: its-theme
       variation: ttrpg-dnd
       mode: both
+      theme: abecedarium
+      mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
