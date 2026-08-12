@@ -1,0 +1,1 @@
+A towering spire made of white stone, and carved to look like a feather. This is a base of operations for a group of Air Cultists.

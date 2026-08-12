@@ -1,0 +1,1 @@
+A Storm Giant queen, she was friendly to the "small folk" humans. She was killed by the [[Previous Campaigns/Motley Few/People/Kracken Society|Kracken Society]].

@@ -1,0 +1,1 @@
+Elvish bard with a penchant for casting spells on friends, and making up stories about krakens.

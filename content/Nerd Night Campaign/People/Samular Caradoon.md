@@ -1,0 +1,1 @@
+Brother to [[Amphail Caradoon]] and [[Nerd Night Campaign/People/Renwick Caradoon]]. Samular was a knight of Tyr and is revered as a hero.

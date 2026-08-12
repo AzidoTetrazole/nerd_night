@@ -1,0 +1,1 @@
+A founding member of the [[Previous Campaigns/Motley Few/Legend of the Motley Few#The Motley Few|Motley Few]], Chandrian left after finding his long lost family.

@@ -1,0 +1,1 @@
+Fell in combat against the giant Queen Guh

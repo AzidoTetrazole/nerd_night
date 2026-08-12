@@ -1,0 +1,1 @@
+The party met Renwick Caradoon in the [[Sacred Stone Monestary]], where the lich has taken up residence. He met [[Nerd Night Campaign/Characters/Tiny|Tiny]] and [[Nerd Night Campaign/Characters/Meany|Meany]]'s grandfather [[Aoutis]] nearly a century before.

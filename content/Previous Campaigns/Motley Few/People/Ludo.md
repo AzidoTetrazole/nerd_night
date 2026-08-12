@@ -1,0 +1,1 @@
+A friend of crows, who fell in combat against the ancient blue dragon [[Previous Campaigns/Motley Few/People/Imryth|Imryth]].

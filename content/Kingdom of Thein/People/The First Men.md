@@ -1,0 +1,1 @@
+The first crossers of the [[Kingdom of Thein/Places/Warden’s Gate|Warden’s Gate]] into the Kingdom of Thein.

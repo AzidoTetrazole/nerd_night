@@ -1,0 +1,1 @@
+A djinni met in Tyar Besil, bound to service in the city.

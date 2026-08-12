@@ -1,0 +1,1 @@
+A holy order of knights founded by a hero of the realm, [[Nerd Night Campaign/People/Samular Caradoon]].

@@ -1,0 +1,1 @@
+An old man with crazy white hair, who had a duck staff stolen by [[Nerd Night Campaign/Characters/Horson|Horson]], and who directed [[Nerd Night Campaign/Characters/Konrad|Konrad]] on how to find his friends after escaping from his captors.

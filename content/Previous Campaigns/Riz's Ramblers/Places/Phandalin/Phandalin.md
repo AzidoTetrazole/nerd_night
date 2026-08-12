@@ -1,0 +1,2 @@
+# Description
+Phandalin was a village in the Sword Coast North that enjoyed much prosperity in the 10th century DR. It was raided by orcs in 951 DR and subsequently abandoned. It was eventually resettled in the late 15th century as a frontier settlement of farmers and prospectors. In 1491, the lost Wave Echo Caves were found by the Rockseeker brothers. With the help of a group of adventurers, a group of bandits were driven out of the cave, leading to a potential for increased business and prosperity for the territory.

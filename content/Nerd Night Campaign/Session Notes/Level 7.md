@@ -1,0 +1,8 @@
+## 8.6.26 - Jangles in the deep
+The party begins the chase to find Axel! Passing by the numerous bloody bodies left in the wake of Bastian. Axel slowed the cultists, while the party found their way past blocked passages, myconid colonies, and raging underground river. As Cordelia messaged Axel, hoping to reach him, he  broke free from Bastian and ran back to find the group following the sounds of Tiny smashing her jangles together in the deep!
+## 7.30.26 - The hunt for Axel
+Leaving the pyramid, the party decides to split up to find clues of where Axel has gone. Cordelia, Konrad, and Parias go north and find a pair of wooden doors spiked shut. Tiny and Ylenna go south, and find a trail of bodies and dead. Both groups return to the pyramid to make their next plans!
+## 7.23.26 - Aerisi Falls!
+As the fight continues, Konrad heals Cordelia as Yelena wishes to have Ahtair heal Tiny. Parias drives away some of the enemies as he is attacked by the invisible creature. Together, they are able to defeat Aerisi who screams herself to death and is torn apart by the wind. As the party seeks to find Axel, Parias says they might be headed toward another section of the city, that he names "Eileanar".
+## 7.16.26 - I walk with no fear, knowing you will find me
+The fight begins against Bastian and Aerisi in the top floor of the pyramid. Blows are traded, before Aerisi uses Chain Lightning and knocks Cordelia and Tiny unconscious! Bastian offers a deal to Axel, come with him or he kills one of his friends. As Axel teleports away with Bastian, he says "I walk with no fear, knowing you will find me"

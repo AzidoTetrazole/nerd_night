@@ -1,0 +1,9 @@
+![Lazuli - First Chosen of Koraborus](z_assets/NPCPortraits/Lazuli%20-%20First%20Chosen%20of%20Koraborus.png)
+# Profile
+Friend & paramore of [[Previous Campaigns/Riz's Ramblers/Player Characters/Nyven of Caulderon]]
+Grew up in [[Previous Campaigns/Riz's Ramblers/Places/Caulderon/Village of Caulderon]]
+Warlock of the pit fiend [[Previous Campaigns/Riz's Ramblers/People/Koraboros]]
+
+Lazuli was the first warlock drawn to the power of Koraboros, abandoning Nyven and Caulderon in search of power.
+
+She coordinated the trap to draw [[Nerd Night Campaign/a_NerdPrivate/DM Notes/Meta Campaign/PCs/Triptan]] to Haven, causing the Fiend to be released

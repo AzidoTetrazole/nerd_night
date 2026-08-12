@@ -1,0 +1,2 @@
+![[z_assets/NPCPortraits/Savra_Belabranta.webp]]
+A raven haired guardswoman in the Feathergale Spire. Her life was spared by Axel during the assault on Feathergale, then she helped Axel and the captured party members escape from the tower!

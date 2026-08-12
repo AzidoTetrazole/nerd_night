@@ -1,0 +1,1 @@
+A name written at the bottom of a letter, taken from the Feathergale Spire, a fortress of the [[Nerd Night Campaign/People/Cult of the Howling Hatred]].
