@@ -114,11 +114,14 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: its-theme
       variation: ttrpg-dnd
       mode: both
+ - source: "@quartz-themes/core"
+    enabled: true
+    options:
       theme: abecedarium
       mode: both
   - source: "@quartz-community/remove-draft"
