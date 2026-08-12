@@ -6,4 +6,4 @@ Warlock of the pit fiend [[Previous Campaigns/Riz's Ramblers/People/Koraboros]]
 
 Lazuli was the first warlock drawn to the power of Koraboros, abandoning Nyven and Caulderon in search of power.
 
-She coordinated the trap to draw [[Nerd Night Campaign/a_NerdPrivate/DM Notes/Meta Campaign/PCs/Triptan]] to Haven, causing the Fiend to be released
+She coordinated the trap to draw [[Triptan]] to Haven, causing the Fiend to be released
