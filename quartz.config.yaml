@@ -113,10 +113,11 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
- - source: "@quartz-themes/core"
+  - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: abecedarium
+      theme: its-theme
+      variation: ttrpg-dnd
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
