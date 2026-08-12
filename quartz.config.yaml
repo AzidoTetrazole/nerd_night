@@ -12,9 +12,6 @@ configuration:
     - private
     - templates
     - .obsidian
-    - "**/?_*/**"
-    - "source/content/?_*/**"
-    - "**/content/?_*"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
