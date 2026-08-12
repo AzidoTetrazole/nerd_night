@@ -116,7 +116,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: its-theme
+      theme: adrenaline
       variation: ttrpg-dnd
       mode: both
   - source: "@quartz-community/remove-draft"
