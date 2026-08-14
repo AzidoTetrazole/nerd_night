@@ -8,13 +8,13 @@ After the night passes, Meanie's departure is discovered. Tiny is traumatized bu
 ## 2.26.26 - Meanie's Trial
 Meanie finds himself in a liminal space with the avatar of his patron, a Pegasus. The Pegasus is being attacked by [[A black cloaked figure]], wearing a silver gauntlet and carrying a warhammer. Meanie rescues the Pegasus, who tells him to "seek the Dawn". Meanie leaves the group, headed toward the rising sun.
 ## 2.19.26 - Crit Fail Forward
-The party defeats the last remaining guards (despite one of them being very annoying - 3 nat 1's). After a brief discussion of dolphin anatomy, they observe a group of small creatures made of ash and fire that are clearing and widening a path deeper into the center of the hill (one nat 1) . The party returns to the courtyard and speaks with [[Nerd Night Campaign/People/Gariena]], an actual druid who came hoping to help bring balance to the elements (2 nat 1's).
+The party defeats the last remaining guards (despite one of them being very annoying - 3 nat 1's). After a brief discussion of dolphin anatomy, they observe a group of small creatures made of ash and fire that are clearing and widening a path deeper into the center of the hill (one nat 1) . The party returns to the courtyard and speaks with [[Gariena]], an actual druid who came hoping to help bring balance to the elements (2 nat 1's).
 ## 2.12.26 - I'm better than insulting dogs
 The fight continues, as a hellhound appears and additional guards join the fight! Meanie casts a Celestial Consumption spell, as Axel is "compelled" to attack enemies?
 ## 2.5.26 - He's hitting on my sister!
 The party arrives to Scarlet Moon Hall. Tiny sneaks ahead to see what the looming figure at the hill is, discovering its a 30 foot tall wicker statue with a burning flame in the center. She Misty Steps to the shoulder, speaking to the flame in the chest. She is attacked by the disguised Flame Priests in the courtyard!
 ## 1.29.26 - Bood
-The party is attacked by a group of bandits, who claim to be followers of [[Nerd Night Campaign/People/Olhydra]] (the Mistress of the Black Tide). One bandit is recognized by Horson, who calls him "Horson the Black", a nickname given to him by the [[Nerd Night Campaign/People/Airship's]]. They continue on their travel to the Scarlet Moon Hall accompanying the wagon merchants.  The merchants are going to attend the druid circle and according to them "... get nekkid, dance, and drink". 
+The party is attacked by a group of bandits, who claim to be followers of [[Olhydra]] (the Mistress of the Black Tide). One bandit is recognized by Horson, who calls him "Horson the Black", a nickname given to him by the [[Airship's]]. They continue on their travel to the Scarlet Moon Hall accompanying the wagon merchants.  The merchants are going to attend the druid circle and according to them "... get nekkid, dance, and drink". 
 ## 1.22.26 - Foot in mouth
 Departing Summit Hall, the party encounters a small group of orcs. The party quickly dispatches them after trying to sneak around.
 Camping that night, a discussion of honesty leads to drinking and drunkenness (for some)!

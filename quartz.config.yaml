@@ -10,6 +10,7 @@ configuration:
   baseUrl: azidotetrazole.github.io/nerd_night
   ignorePatterns:
     - private
+    - ?_private
     - templates
     - .obsidian
   theme:

@@ -12,4 +12,4 @@ After an assassination of the God of Magic Mystra, control of the weave was lost
 The Gods depart the material plane, creating a binding pact amongst the greater gods.
 
 ## The Breaching
-The contract between the gods is broken by mortals ([[Previous Campaigns/Riz's Ramblers/The Ramblers]]) as they thwart the plans of the pit fiend [[Previous Campaigns/Riz's Ramblers/People/Koraboros]].  
+The contract between the gods is broken by mortals ([[The Ramblers]]) as they thwart the plans of the pit fiend [[Koraboros]].  

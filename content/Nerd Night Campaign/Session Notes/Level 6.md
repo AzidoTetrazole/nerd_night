@@ -2,7 +2,7 @@
 Konrad returns! He was abducted by black robed justiciars (probation officers). He ran into [[Nerd Night Campaign/People/Fizzbang|Fizzbang]] who directed him where to find the party. 
 The party went back to the pyramid, and burst in the front doors. They quickly dispatched of the cultists on the bottom floor. Axel then heard two voices (one female, and one he recognizes as Bastian) that invited them to come upstairs. Axel went running upstairs to confront Bastian!
 ## 6.25.26 - Or die trying!
-The party defeats the wyvern, and Axel explores the first level of the pyramid before retreating. They meet [[Nerd Night Campaign/People/Ahtayir]], a djinnii bound to service in the city. Tiny promises that they will break the horn, freeing him (or die trying)
+The party defeats the wyvern, and Axel explores the first level of the pyramid before retreating. They meet [[Ahtayir]], a djinnii bound to service in the city. Tiny promises that they will break the horn, freeing him (or die trying)
 ## 6.18.26 - Do you feel lucky?
 The party continues through the hallway, bypassing a room with a satyr and other musicians. Yllena spots a wyvern and rider resting atop the stair step pyramid. Under the protective shadow of Cordelia's magic, they scout around the pyramid. Just as the party backtracks across the bridge, Cordelia's magic drops and the Wyvern screams in rage!
 * Yelena (Entangle), Cordelia (Aura of Vitality), Axel (Insightful fighting @ wyvern)

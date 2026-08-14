@@ -9,10 +9,10 @@ The party finds Bruldenthar, a member of the travelers from Mirabar. They lead B
 ## 11.27.25 - Drugar
 The party fights a party of drugar in the caverns
 ## 11.20.25 - Renwick Caradoon
-The party meets [[Nerd Night Campaign/People/Renwick Caradoon]] a lich and brother of Samular! Renwick met and spoke with [[Aoutis]], Meanie and Tiny's grandfather. The party discovers the caravan was carrying the body of a knigh of Samular, and that members of the caravan are still in the caverns beneath the monastery! 
+The party meets [[Renwick Caradoon]] a lich and brother of Samular! Renwick met and spoke with [[Aoutis]], Meanie and Tiny's grandfather. The party discovers the caravan was carrying the body of a knigh of Samular, and that members of the caravan are still in the caverns beneath the monastery! 
 
 ## 11.13.25 - The Sarcophagus of Samular Caradoon
-The party sneaks into a crypt, and finds a sarcophagus with the inscription "Here lies [[Nerd Night Campaign/People/Samular Caradoon]], defender of the North". Cordelia remembers Samular Caradoon as a knight of Tyr, the youngest of 3 brothers. Attempting to continue through a magically locked door, zombies rise and attack! The party defeats the hardy creatures, before the locked door creaks open behind them, with a figure standing on the other side!
+The party sneaks into a crypt, and finds a sarcophagus with the inscription "Here lies [[Samular Caradoon]], defender of the North". Cordelia remembers Samular Caradoon as a knight of Tyr, the youngest of 3 brothers. Attempting to continue through a magically locked door, zombies rise and attack! The party defeats the hardy creatures, before the locked door creaks open behind them, with a figure standing on the other side!
 ## 11.6.25 - The trap fails!
 As the party drops into the pit under the monestary, they are attacked by an Umber Hulk with dark earthen spikes in its eyes, and bronze blades replacing its arms. The party fights the Umber Hulk and Qarbo, defeating them in a two level combat!
 ## 10.23.25 - Trap Sprung
@@ -21,5 +21,5 @@ The party meets an odd old man, who is attacking a bush with a duck walking cane
 ## 10.16.25 - Graboids!
 The party is attacked by 3 ankhegs. They manage to defeat the creatures.
 ## 9.18.25 - Impromptu Airshow
-Konrad sleeps and dreams of his father loving him. Cordelia is not a morning person. Tiny, Horson and the Aarakocra hold a sunrise airshow. The party reads a letter from [[Nerd Night Campaign/People/Aerisi Kalinoth]], mentioning Earth Monks and the Sacred Stone Monestary. The party heads towards the place marked on Meanie and Tiny's map, with a symbol etched on the ancient vellum under the name "Tyar-Besil":
+Konrad sleeps and dreams of his father loving him. Cordelia is not a morning person. Tiny, Horson and the Aarakocra hold a sunrise airshow. The party reads a letter from [[Aerisi Kalinoth]], mentioning Earth Monks and the Sacred Stone Monestary. The party heads towards the place marked on Meanie and Tiny's map, with a symbol etched on the ancient vellum under the name "Tyar-Besil":
 ![[z_assets/Group Images/Pasted image 20250918204909.png]]

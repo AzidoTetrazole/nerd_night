@@ -1,1 +1,1 @@
-A name written at the bottom of a letter, taken from the Feathergale Spire, a fortress of the [[Nerd Night Campaign/People/Cult of the Howling Hatred]].
+The elven leader of the [[Cult of the Howling Hatred]], she was brought low by a group of adventurers! As her body was torn apart by the wind she worshipped, she screamed her last!

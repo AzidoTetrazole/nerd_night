@@ -8,7 +8,7 @@ This information was shared to the party by Bruldenthar, a member of the Harpers
 
 [[Nerd Night Campaign/People/Bruldenthar|Bruldenthar]] learned during the trip that 3 members of the group know a piece of the key to unlock portions of the city hidden beneath the Sumber Hills. He is taking the escaped prisoners with him to [[Nerd Night Campaign/Places/Summit Hall|Summit Hall]], the home of the Knights of Samular.
 
-[[Nerd Night Campaign/People/Rhundorth]] - Member of the Harpers - taken by Earth Cultists deep beneath the Sacred Stone Monestary. His books contained the history of Tyar-Besil. The books were given to the pirates who helped transport the captured Mirabaran's.
+[[Rhundorth]] - Member of the Harpers - taken by Earth Cultists deep beneath the Sacred Stone Monestary. His books contained the history of Tyar-Besil. The books were given to the pirates who helped transport the captured Mirabaran's.
 
 [[Teresiel]] - A member of the Emerald Enclave - Given to a Fire Genasi named [[Nerd Night Campaign/People/Bastian Thermandar|Bastian Thermandar]] from Scarlet Moon Hall
 

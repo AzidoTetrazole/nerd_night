@@ -1,3 +1,6 @@
+
+## 8.13.26 - The rescue of Axel
+Axel runs back to the group, and the fight ensues! Spellcasting, swordplay, as Conrad slays enemies left and right. The enemies fall, Axel is rescued, but Bastian escapes, calling to Axel, "[[Vanifer]] has made great use of your family legacy!"
 ## 8.6.26 - Jangles in the deep
 The party begins the chase to find Axel! Passing by the numerous bloody bodies left in the wake of Bastian. Axel slowed the cultists, while the party found their way past blocked passages, myconid colonies, and raging underground river. As Cordelia messaged Axel, hoping to reach him, he  broke free from Bastian and ran back to find the group following the sounds of Tiny smashing her jangles together in the deep!
 ## 7.30.26 - The hunt for Axel

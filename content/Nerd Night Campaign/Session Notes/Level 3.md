@@ -15,7 +15,7 @@ After a shopping interlude, the party stealthily arrives at Feathergale Spire. A
 ## 7.17.25 - Well that was weird...
  A strangely strong, focused, and directed snowstorm? Bitter cold in late summer? An empty armor walking along the road? No need to investigate further.
  
- Searching the bodies of the defeated vulture riders, the party finds a small amount of gold, and a map marking the location of [[Nerd Night Campaign/Places/Feathergale Spire]]. The same map also has a symbol drawn in one corner:
+ Searching the bodies of the defeated vulture riders, the party finds a small amount of gold, and a map marking the location of [[Feathergale Spire]]. The same map also has a symbol drawn in one corner:
  
 ![[z_assets/Group Images/COTHH.png]]
 ## 7.10.25 - Kneel Before Horson
