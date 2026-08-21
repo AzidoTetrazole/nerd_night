@@ -1,4 +1,8 @@
 
+## Tiny climbed it like a tree
+The group starts their travel back to the surface, successfully returning to the myconid cavern. They follow the myconids back through a crevasse to a large space in which a 150 foot wide sphere floats above a metal truck, with its metallic branches spreading out to support the sphere. Some people join and leave the myconid group chat, as the party finds magic runes around a gap within the "truck" of the metallic tree. Tiny discovers the sphere is not resting on the tree, but silently floating and rotating on the branches!
+
+[[Psilofyr]] - lead myconid of the Underearth Bloom
 ## 8.13.26 - The rescue of Axel
 Axel runs back to the group, and the fight ensues! Spellcasting, swordplay, as Conrad slays enemies left and right. The enemies fall, Axel is rescued, but Bastian escapes, calling to Axel, "[[Vanifer]] has made great use of your family legacy!"
 ## 8.6.26 - Jangles in the deep

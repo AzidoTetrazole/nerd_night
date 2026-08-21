@@ -9,6 +9,16 @@ Storage room, smaller with shelves - Bottles and a brush, a brush
 A figure with a blue light, trash can with three wheels. - Mechanical Roomba :D
 
 Mechanical room - tools in the right desk drawers, left desk drawers, I find a piece of paper. 
+
+Spider room - 
+
+
+## 8.19.26 - So many spiders
+We continue to the next room, and find many giant spiders. We find the dead body of one hammer squad member. I inspect the desk - **Key, notebook** with 2 filled pages. First page - person's travels to get into [[Iron Veins]]. Second page - one day's worth of diary, learning about areas and workshop. 8 or 9 area's in complex.
+
+Bed has been moved?
+## 8.12.26 - One Shot - The Tooth Fairy & The Bookkeeper
+Stirr and Logan find themselves teleported to a dungeon complex where they fight two otherworldly creatures.
 ## 8.5.26 - So many doors
 We descend into the cavern below, discovering 6 doors with a variety of locks. Using a set of pressure plates, we are able to open a door and find the "Gallery", as well as a non-magical piece of advanced cleaning technology. We also find a tool room, where a note is stashed in a desk.
 ## 7.29.26 - Spelunking
