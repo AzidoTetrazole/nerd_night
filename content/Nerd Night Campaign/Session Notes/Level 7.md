@@ -1,5 +1,5 @@
 ## 8.27.26 - The Pizza Oven
-The group completes a long rest, and after much investigation, and sword dancing they discover that the "pizza oven" in the base of the metallic tree has some ability to enchant mundane items!
+The group completes a long rest, and after much investigation, and sword dancing they discover that the "pizza oven" in the base of the metallic tree has some ability to enchant mundane items! Njal enchants his sword and shield, as Yelena enchants her sword, and Cordelia enchants her staff. Yelena recognizes that the effects of the enchanting seem to be waning.
 ## 8.20.26 - Tiny climbed it like a tree
 The group starts their travel back to the surface, successfully returning to the myconid cavern. They follow the myconids back through a crevasse to a large space in which a 150 foot wide sphere floats above a metal truck, with its metallic branches spreading out to support the sphere. Some people join and leave the myconid group chat, as the party finds magic runes around a gap within the "truck" of the metallic tree. Tiny discovers the sphere is not resting on the tree, but silently floating and rotating on the branches!
 
