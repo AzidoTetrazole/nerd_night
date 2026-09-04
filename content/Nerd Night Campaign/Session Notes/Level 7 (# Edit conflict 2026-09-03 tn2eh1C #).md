@@ -1,5 +1,5 @@
-## 9.3.26 - Cordelia goes Ape Shit
-The party departs the myconid Source and continues on their travels out of the caves. They discover and defeat an undead Beholder, as Axel discovers his family crest carved upon the beholders skull!
+## 9.3.26 - Cordelia goes Ape shit
+
 ## 8.27.26 - The Pizza Oven
 The group completes a long rest, and after much investigation, and sword dancing they discover that the "pizza oven" in the base of the metallic tree has some ability to enchant mundane items! The orb and its metallic tree are found to be relics of an ancient lost civilization, the [[Netheril]]. Konrad enchants his sword and shield, as Yelena enchants her sword, and Cordelia enchants her staff. Yelena recognizes that the effects of the enchanting seem to be waning.
 ## 8.20.26 - Tiny climbed it like a tree
