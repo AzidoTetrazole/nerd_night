@@ -1,0 +1,1 @@
+A drow woman, met in the caverns beneath the Sumber hills. She noticed a connection of drow elven magic bound into [[Yllalana]]'s blood.

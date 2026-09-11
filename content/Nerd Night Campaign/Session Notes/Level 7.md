@@ -1,3 +1,5 @@
+## 9.10.26 - Drow in the Deep
+The group finds a drow woman in a hot springs. [[Jhaelocar]] recognizes that Yelena has some drow ancestry in her, hidden behind some subtle drow magic bound in Yelena's blood. While Konrad was made uncomfortable in the conversation, Yelena and Tiny were given hairpins from Jhaelocar's collection, and given safe passage from the caves.
 ## 9.3.26 - Cordelia goes Ape Shit
 The party departs the myconid Source and continues on their travels out of the caves. They discover and defeat an undead Beholder, as Axel discovers his family crest carved upon the beholders skull!
 ## 8.27.26 - The Pizza Oven
