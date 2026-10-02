@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: azidotetrazole.github.io/nerd_night
+  baseUrl: azidotetrazole.github.io
   ignorePatterns:
     - private
     - a_private
