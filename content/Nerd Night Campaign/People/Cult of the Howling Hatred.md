@@ -6,6 +6,7 @@ Known members:
 [[Nerd Night Campaign/People/Aerisi Kalinoth|Aerisi Kalinoth]]
 [[Thurl Merosska]]
 [[Savra Belabranta]]
+[[Windharrow]]
 
 Encountered in:
 [[Nerd Night Campaign/Places/Feathergale Spire|Feathergale Spire]]

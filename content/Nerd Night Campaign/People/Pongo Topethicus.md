@@ -1,0 +1,1 @@
+Grandfather of [[Tiny]] and [[Meany]]. An explorer who delved into [[Tyar Besil]] and left his notes of the city.
