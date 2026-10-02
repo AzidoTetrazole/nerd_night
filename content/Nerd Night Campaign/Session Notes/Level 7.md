@@ -1,3 +1,6 @@
+## 10.1.26 - Noods are hard
+The group returns safely to the Air Temple, and further explore the Plaza of the Muses. They discover 5 dead bodies, and a note from [[Windharrow]] summoning a cultist to join the Wyndwards.
+After leaving the tunnels, they travel back to Red Larch to rest and recover. Using [[Pongo Topethicus]]'s journal, Tiny realizes there is another entrance to the underground caverns near  [[Rivergard Keep]]. At the [[Red Larch#Allfaiths Shrine|Allfaiths Shrine]] they ask to have the priest [[Red Larch#Imdarr (Human priest of Tempus)|Imdarr]] scry on some people. Tiny asks to see Meanie, who is observed at Summit Hall seeming to be uninjured but gaunt and sickly. Konrad asks to see his parents, but is rejected by a thundering "NO DARK MAGIC". Lastly, they scry on Bastian who is observed to be at the [[Sacred Stone Monastery]]
 ## 9.10.26 - Drow in the Deep
 The group finds a drow woman in a hot springs. [[Jhaelocar]] recognizes that Yelena has some drow ancestry in her, hidden behind some subtle drow magic bound in Yelena's blood. While Konrad was made uncomfortable in the conversation, Yelena and Tiny were given hairpins from Jhaelocar's collection, and given safe passage from the caves.
 ## 9.3.26 - Cordelia goes Ape Shit

@@ -25,6 +25,12 @@ In recent years, new quarries have been opened on the northwestern edge of town.
 
 Chansyrl Fine Harness - Phaendra spends the evenings at Gaelkurs
 Tantur Smithy - one word answers
+
+### Allfaiths Shrine
+A shared worship space between travelling clerics.
+##### Imdarr (Human priest of Tempus)
+
+
 # Map
 ***
 ![[z_assets/Maps/Red Larch - Player.jpg]]

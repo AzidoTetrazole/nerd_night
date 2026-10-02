@@ -1,0 +1,1 @@
+A fortress on the shore of the Dessarin River. Hosted the Womford Jamboree. Suspected location of the entrance to the Water Cultists fortress?
