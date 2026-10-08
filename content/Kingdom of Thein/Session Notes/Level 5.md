@@ -1,18 +1,22 @@
 Cave first room is 60-70 feet in diameter. 6 doors in 4 corners, similar sized, all are double doors, 10-12 feet tall. Pattern on the floor (a compass in the center - lines point to the doors, two lines heavier pointing to 3 and 9 oclock)
 Rhuarc goes to the 9 oclock door - has normal door handle, deadbolt locks on the doors (combination locks)
-3 oclock door - Pressure platform door - unlocked by standing on 4 right platforms, which moved the pressure gauges 
+3 o'clock door - Pressure platform door - unlocked by standing on 4 right platforms, which moved the pressure gauges 
 
-1 oclock door - 
+1 o'clock door - 
 
-"Galleries" - labratory - split into front and rear. Two hoods in the front. In the back is rooms of opache glass, door on far end. No dust, very clean. Scratch marks on the floor from the door opening.
+"Galleries" - laboratory - split into front and rear. Two hoods in the front. In the back is rooms of opache glass, door on far end. No dust, very clean. Scratch marks on the floor from the door opening.
 Storage room, smaller with shelves - Bottles and a brush, a brush
 A figure with a blue light, trash can with three wheels. - Mechanical Roomba :D
 
 Mechanical room - tools in the right desk drawers, left desk drawers, I find a piece of paper. 
 
 Spider room - 
-
-
+## 10.7.26 - Die robot die!
+The robot keeps resisting the abilities of the party, until Thistle makes a fantastic hit and the robot falls. Leo uses mold earth to add resistance to the door. Leo and Rhuarc discuss the robot fight and the First Men, as Behmen and Thistle then take their watch.
+## 9.23.26 - Robots from the floor
+Some orb robots awoke, and an automaton irises out of the floor. The fight starts!
+## 9.9.26 - So many rooms
+We investigate a slide or chute in the floor, finding a trap and a small opening at the end. We are unable to open the door after much investigating. We leave the spider room, and head south discovering 2 rooms with mechanical devices. One looks like a clockwork machine, the other like a dome or tube. We find a 3rd room that looks like a compass with small orbs in calendar directions, and buttons in an unknown language. Behman casts “comprehend languages” to read the buttons (Startup, down, on, up). We spread out to observe what happens, and I push the “on” button. The small orbs in the compass room begin to spin and rotate, as a hole opens in the middle of the room and…
 ## 8.19.26 - So many spiders
 We continue to the next room, and find many giant spiders. We find the dead body of one hammer squad member. I inspect the desk - **Key, notebook** with 2 filled pages. First page - person's travels to get into [[Iron Veins]]. Second page - one day's worth of diary, learning about areas and workshop. 8 or 9 area's in complex.
 

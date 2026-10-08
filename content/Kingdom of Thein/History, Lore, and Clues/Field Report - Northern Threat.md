@@ -5,7 +5,7 @@ The extreme magic users continue to move south from the northern mountains. Thei
 
 Where they remain for extended periods, the land becomes dead. Vegetation withers. Animal populations disappear. Water sources become unreliable. In several locations, the effect has persisted long after the users have departed.
 
-We have confirmed that the destruction is not caused by ordinary spellcraft.
+We have confirmed that the destruction is not caused by ordinary spell craft.
 
 The energy behaves differently. It remains in the land.
 
@@ -31,9 +31,9 @@ Their movements have become increasingly deliberate since the latest disturbance
 If they continue south, they will eventually discover us.
 ### NETWORK STATUS
 
-[[Kingdom of Thein/History, Lore, and Clues/Clues/Aeloria Conduit]]: Operational  
-[[Kingdom of Thein/History, Lore, and Clues/Clues/Brennach Passage]]: Restricted  
-[[Kingdom of Thein/History, Lore, and Clues/Clues/Frostspire Deepway]]: Sealed
+[[Kingdom of Thein/History, Lore, and Clues/Clues/Aeloria Conduit|Aeloria Conduit]]: Operational
+[[Kingdom of Thein/History, Lore, and Clues/Clues/Brennach Passage|Brennach Passage]]: Restricted  
+[[Kingdom of Thein/History, Lore, and Clues/Clues/Frostspire Deepway|Frostspire Deepway]]: Sealed
 
 The Deepway remains our greatest concern.
 
