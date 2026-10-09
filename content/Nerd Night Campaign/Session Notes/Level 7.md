@@ -1,3 +1,6 @@
+## 10.8.26 - Its sucking out your soul - thwwwwpt
+The party departs to continue their hunt for Bastian, intending to head toward the Earth Monastery. On the way, they run into a caravan and notice that there is a "damsel in distress" tied up in the back, while 3 heavily cloaked vampire spawn drive the cart! Conrad is bitten in the midst of the fight, but the party defeats all three spawn.
+Cordelia is creating a lesser restoration scroll for 300 gold, and 3 days of scribing. 
 ## 10.1.26 - Noods are hard
 The group returns safely to the Air Temple, and further explore the Plaza of the Muses. They discover 5 dead bodies, and a note from [[Windharrow]] summoning a cultist to join the Wyndwards.
 After leaving the tunnels, they travel back to Red Larch to rest and recover. Using [[Pongo Topethicus]]'s journal, Tiny realizes there is another entrance to the underground caverns near  [[Rivergard Keep]]. At the [[Red Larch#Allfaiths Shrine|Allfaiths Shrine]] they ask to have the priest [[Red Larch#Imdarr (Human priest of Tempus)|Imdarr]] scry on some people. Tiny asks to see Meanie, who is observed at Summit Hall seeming to be uninjured but gaunt and sickly. Konrad asks to see his parents, but is rejected by a thundering "NO DARK MAGIC". Lastly, they scry on Bastian who is observed to be at the [[Sacred Stone Monastery]]
