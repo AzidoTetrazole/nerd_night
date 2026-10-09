@@ -1,20 +1,11 @@
 ---
 title: Welcome Nerds!
 ---
-![[z_assets/SiteAssets/NNHeader2.png]]
+![[Forgotten Realms header.png]]
 
-Welcome friends, to the home of the Nerd Night!
-
-This site will be used for table rules and world lore!
-
-Useful Links:
-
-[DND Beyond Campaign](https://www.dndbeyond.com/campaigns/6632877)
-
-[Campaign 3 Memes](https://drive.proton.me/u/48/photos/albums/Q_z3BFWN3sWCCd0R_LIZBZfTKzY_PvfX5lRJ6YBnlnb9ysufUSP8-8UYbgGBeV_2d7IGuT8n44Tgomqj4CQRgQ==/album/CI3OyzbCzJirX42trdgIi8DLvHTAHGHtMpGJMYjrrEoVUdP1yZf1SO-8l-EiK-LmkZN95Ba5th74dAqG_KKYlw==)
 ## Campaign Introduction
 
-Its been nearly 25 years since the [[Nerd Night Campaign/Events in the Realms#The Breaching|Breaching]], when the hierarchy of the Gods was shattered at the hands of mortals. For nearly a decade after the Breaching, Faerun was in a state of chaos. Tales are plenty of divinity, nature, time, and the realms unbound. Gods that walked the mortal plane for the first time in millennia. The sun and moon whirled chaotically across the sky. Weather and seasons were unmoored from the passage of time. Entire landscapes were shaped by unleashed deities and nature.
+Its been nearly 25 years since the [[Events in the Realms#The Breaching|Breaching]], when the hierarchy of the Gods was shattered at the hands of mortals. For nearly a decade after the Breaching, Faerun was in a state of chaos. Tales are plenty of divinity, nature, time, and the realms unbound. Gods that walked the mortal plane for the first time in millennia. The sun and moon whirled chaotically across the sky. Weather and seasons were unmoored from the passage of time. Entire landscapes were shaped by unleashed deities and nature.
 
 In the last few years, a tense calm has settled over the world. The great disasters of the Breaching are beginning to fade, if only on the landscape if not in the minds of the survivors. Is this a true peace, or simply the eye of the storm?
 

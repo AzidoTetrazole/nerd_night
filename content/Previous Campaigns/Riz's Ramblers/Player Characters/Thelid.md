@@ -1,8 +1,8 @@
 ![[z_assets/PCPortraits/Thelid.jpg|500]]
-Member of [[Previous Campaigns/Riz's Ramblers/The Ramblers]]
-Longtime friend of [[Previous Campaigns/Riz's Ramblers/Places/Port Llast/Ariadne Vosamo]]
+Member of [[The Ramblers]]
+Longtime friend of [[Ariadne Vosamo]]
 Shaman of [[Platanism]]
-Free Lord of [[Previous Campaigns/Riz's Ramblers/Places/Port Llast/Port Llast]]
+Free Lord of [[Port Llast]]
 
 Thelid was held captive in Port Llast, and forced to be a warrior for the leader of the city. After escaping (with help from [[Barakus]] and [[Previous Campaigns/Riz's Ramblers/Player Characters/Rizlyn|Rizlyn]]), he accompanied his friend Ariadne to a farm near [[Previous Campaigns/Riz's Ramblers/Places/Phandalin/Phandalin|Phandalin]]. After Rizlyn's death, Thelid joined the Ramblers.
 

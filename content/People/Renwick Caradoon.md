@@ -1,0 +1,1 @@
+The party met Renwick Caradoon in the [[Sacred Stone Monestary]], where the lich has taken up residence. He met [[Tiny|Tiny]] and [[Meany|Meany]]'s grandfather [[Aoutis]] nearly a century before.

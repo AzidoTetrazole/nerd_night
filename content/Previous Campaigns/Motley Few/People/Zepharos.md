@@ -1,1 +1,0 @@
-A cloud giant who transported the Motley Few on his flying castle.

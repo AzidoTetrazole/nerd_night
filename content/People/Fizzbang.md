@@ -1,0 +1,1 @@
+An old man with crazy white hair, who had a duck staff stolen by [[Characters/Horson|Horson]], and who directed [[Konrad|Konrad]] on how to find his friends after escaping from his captors.

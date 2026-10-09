@@ -1,6 +1,6 @@
 The book is a travel journal and diary for Shenarah Ilihorn, a high elf wizard from Neverwinter. The early pages describe her departure from Neverwinter, and her travels across the sword coast.
  
-Midway through the journal, she describes meeting [[People/Ammon Jerro]], a human warlock. She describes him as "…  
+Midway through the journal, she describes meeting [[Ammon Jerro]], a human warlock. She describes him as "…  
 physically impressive man made all the more powerful-seeming by his considerable charisma, commanding voice, and determined manner." Through the pages, Shenarah details the partnership between herself and Ammon as they delved into secrets of the lower planes, seeking better understanding of devils, demons, and denizens of alternate planes of existance. Their work together deepened their partnership, which grew into a bond of love and devotion.
  
 Continuing your search through the journal, you pick out some passages:
