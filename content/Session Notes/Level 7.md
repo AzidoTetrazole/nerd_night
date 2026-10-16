@@ -1,3 +1,5 @@
+## 10.15.26 - Papa's dungeon equipment
+The party goes to rest, but Tiny attempts to give them the slip and go see Meanie. The party gives chase, eventually catching her. The party see's a flash on the horizon and feels a thunder in the ground. After long-resting they continue to Summit Hall, finding it nearly destroyed. The defensive walls are knocked down, the towers shattered or collapsing. Axel finds one track of water cultists as the party goes to chase the attackers!
 ## 10.8.26 - Its sucking out your soul - thwwwwpt
 The party departs to continue their hunt for Bastian, intending to head toward the Earth Monastery. On the way, they run into a caravan and notice that there is a "damsel in distress" tied up in the back, while 3 heavily cloaked vampire spawn drive the cart! Conrad is bitten in the midst of the fight, but the party defeats all three spawn.
 Cordelia is creating a lesser restoration scroll for 300 gold, and 3 days of scribing. 
