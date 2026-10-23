@@ -1,3 +1,7 @@
+## 10.22.26 - Conrads and the terrible, horrible, no good, very bad day
+The party begins to follow the tracks of the water cultists. They find one track that heads more directly west, leaving the larger group heading southwest. Following the smaller track, they are attacked by a shambling mound and twig blights, summoned by a water cultists. The party handily defeats them, while Conrad is having a rough go of it.
+
+Also, Eriksvaager is feudalist/socialist.
 ## 10.15.26 - Papa's dungeon equipment
 The party goes to rest, but Tiny attempts to give them the slip and go see Meanie. The party gives chase, eventually catching her. The party see's a flash on the horizon and feels a thunder in the ground. After long-resting they continue to Summit Hall, finding it nearly destroyed. The defensive walls are knocked down, the towers shattered or collapsing. Axel finds one track of water cultists as the party goes to chase the attackers!
 ## 10.8.26 - Its sucking out your soul - thwwwwpt
