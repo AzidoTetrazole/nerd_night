@@ -1,4 +1,4 @@
-## 10.22.26 - Conrads and the terrible, horrible, no good, very bad day
+## 10.22.26 - Conrad and the terrible, horrible, no good, very bad day
 The party begins to follow the tracks of the water cultists. They find one track that heads more directly west, leaving the larger group heading southwest. Following the smaller track, they are attacked by a shambling mound and twig blights, summoned by a water cultists. The party handily defeats them, while Conrad is having a rough go of it.
 
 Also, Eriksvaager is feudalist/socialist.
