@@ -1,3 +1,6 @@
+## 10.29.26 - He just got a howler
+The party sets up for a long rest, before being approached by a young human asking if his master Zacheus could meet with them. Zacheus, revealed to be a vampire, has been seeking the party. He was looking for his "children" who ran off with one of his favorite "wards". Tiny directs them to Summit Hall, convincing him that they left Cassandra there. 
+As the party crossed the Dessarin River, a water elemental clasps an ear cuff onto his ear as he hears his mother [[Previous Campaigns/Riz's Ramblers/Player Characters/Lapis|Lapis]]'s voice tell him, "Call. Home. Now." Lapis says that she hasn't been able to find them for days, and that she expects more regular contact.
 ## 10.22.26 - Conrad and the terrible, horrible, no good, very bad day
 The party begins to follow the tracks of the water cultists. They find one track that heads more directly west, leaving the larger group heading southwest. Following the smaller track, they are attacked by a shambling mound and twig blights, summoned by a water cultists. The party handily defeats them, while Conrad is having a rough go of it.
 
