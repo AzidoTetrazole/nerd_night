@@ -1,3 +1,8 @@
+## 11.19.26 - Cave diving
+The party descends deeper under the earth, finding a pathway that leads over a chasm. They are beset by gargoyles, which push Tiny and Cat-delia off the pathway. The tables quickly turn, as Yelena strikes the final blow by diving off the pathway and striking down the last enemy!
+## 11.12.26 - Sneaking into a monestary
+The party sneaks in through the back entrance of the Earth Cultist Monestary, finding a hidden door that leads to Renwick's tower. Axel hears Renwick repeating to himself: "Lay out the challenges... in order... one at a time. I must recover Samular. I cannot approach him, Summit Hall is warded." They sneak into the caves underneath, finding an ogre mutilated with blades bolted to its arms.
+Axel picks a lock leading deeper into the caverns, but feels that the lock was staged, not truly a barrier to their entry?
 ## 10.29.26 - He just got a howler
 The party sets up for a long rest, before being approached by a young human asking if his master Zacheus could meet with them. Zacheus, revealed to be a vampire, has been seeking the party. He was looking for his "children" who ran off with one of his favorite "wards". Tiny directs them to Summit Hall, convincing him that they left Cassandra there. 
 As the party crossed the Dessarin River, a water elemental clasps an ear cuff onto his ear as he hears his mother [[Previous Campaigns/Riz's Ramblers/Player Characters/Lapis|Lapis]]'s voice tell him, "Call. Home. Now." Lapis says that she hasn't been able to find them for days, and that she expects more regular contact.
